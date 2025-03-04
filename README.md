@@ -1,0 +1,1 @@
+Collage Prediction using flask, numpy, joblib, tensorflow 
